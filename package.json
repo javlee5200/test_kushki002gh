@@ -1,0 +1,39 @@
+{
+  "name": "test-kushki001",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@kushki/js": "^1.18.2",
+    "@types/react-redux": "^7.1.16",
+    "@types/react-router": "^5.1.15",
+    "axios": "0.20.0",
+    "luhn": "2.4.1",
+    "node-sass": "^6.0.1",
+    "normalize.css": "8.0.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-hook-form": "6.3.1",
+    "react-imask": "^6.0.7",
+    "react-scripts": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "^16.14.8",
+    "@types/react-dom": "^16.9.5",
+    "typescript": "3.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "client": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
